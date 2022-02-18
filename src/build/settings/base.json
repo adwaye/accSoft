@@ -1,0 +1,6 @@
+{
+    "app_name": "matched_betting_tracker",
+    "author": "Adwaye M Rambojun",
+    "main_module": "src/main/python/main.py",
+    "version": "0.0.0"
+}
