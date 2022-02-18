@@ -70,6 +70,18 @@ class FREE_BET_CALCULATOR(QWidget):
         self.setLayout(self.layout)
 
     def initialise_back_bets(self):
+        pass
+
+
+    def initialise_lay_bets(self):
+        pass
+
+    def initialise_info(self):
+        pass
+
+    def initialise_actions(self):
+        pass
+
 
 
 
